@@ -13,8 +13,12 @@ class App extends Component {
 
         this.state = {
             tasks: [
-                {taskName: "Task 1333"},
-                {taskName: "Task 2"}
+                {taskName: "Task 1"},
+                {taskName: "Task 2"},
+                {taskName: "Task 2"},
+                {taskName: "Task 3"},
+                {taskName: "Task 4"},
+                {taskName: "Task 5"}
             ]
         };
     }
